@@ -4,7 +4,8 @@
   "description": "es 6 and promise object learning demo.",
   "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
   },
   "author": "xakoy",
   "license": "ISC",
